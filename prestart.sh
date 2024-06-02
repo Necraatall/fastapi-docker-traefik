@@ -1,3 +1,4 @@
+#!/bin/sh
 # prestart.sh
 
 echo "Waiting for postgres connection"
